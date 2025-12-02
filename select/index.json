@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "恋におちたら",
+  "base_artist": "Crystal Kay",
+  "createdAt": "2025-12-02T18:54:32.803551Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋におちたら",
+      "artist": "鈴木愛理 feat. 空音 & ☆Taku Takahashi",
+      "has_synced": true,
+      "path": "select/01_恋におちたら_鈴木愛理_feat._空音_&_☆Taku_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋におちたら",
+      "artist": "サニーデイ・サービス",
+      "has_synced": true,
+      "path": "select/02_恋におちたら_サニーデイ・サービス.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋におちたら",
+      "artist": "SkY",
+      "has_synced": false,
+      "path": "select/03_恋におちたら_SkY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋におちたら - From THE FIRST TAKE",
+      "artist": "Airi Suzuki",
+      "has_synced": false,
+      "path": "select/04_恋におちたら_-_From_THE_FIRST_TAKE_Airi_Suzuki.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋におちたら",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/05_恋におちたら_Crystal_Kay.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋におちたら",
+      "artist": "Crystal Kay",
+      "has_synced": false,
+      "path": "select/pl_01_恋におちたら_Crystal_Kay.txt"
+    }
+  ]
+}
